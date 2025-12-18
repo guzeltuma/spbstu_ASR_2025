@@ -40,7 +40,7 @@ https://disk.yandex.ru/edit/d/7XG3QUkyRcKMLdZjs_nzJCPegnqahzm72s0qoIz-cKg6V015eW
         <a href="https://disk.yandex.ru/d/8O7Gr1KHHeiAXg">
             Яндекс-диск 1 лаба
         </a><br><br>
-      Дедлайн: 14.11.25 23:59 по МСК<br><br>
+      Дедлайн: 15.11.25 23:59 по МСК (дедлайн сдвинут, так как 15 числа появился репозиторий)<br><br>
     </li>
     <li>
         <strong>Лабораторная работа №2 "Перевод аннотаций на английский язык с помощью ИИ"</strong><br>
