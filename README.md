@@ -64,7 +64,7 @@ https://disk.yandex.ru/edit/d/7XG3QUkyRcKMLdZjs_nzJCPegnqahzm72s0qoIz-cKg6V015eW
         <a href="https://disk.yandex.ru/d/9zMOIqERLAouPA">
             Яндекс-диск 4 лаба
         </a><br><br>
-      Дедлайн: 08.12.25 23:59 по МСК (сдвинут, т.к. условия были выданы позже)<br><br>
+      Дедлайн: 22.12.25 23:59 по МСК<br><br>
     </li>
     <li>
         <strong>Лабораторная работа №5 "Автоматизированное создание веб сайтов с помощью Cursor A"</strong><br>
@@ -72,10 +72,33 @@ https://disk.yandex.ru/edit/d/7XG3QUkyRcKMLdZjs_nzJCPegnqahzm72s0qoIz-cKg6V015eW
         <a href="https://disk.yandex.ru/d/R22RUkulOCNT6A">
             Яндекс-диск 5 лаба
         </a><br><br>
-      Дедлайн: 22.12.25 23:59 по МСК (общий для оставшихся лаб и итогового реферата)<br><br>
+      Дедлайн: 22.12.25 23:59 по МСК<br><br>
+    </li>
+    <li>
+        <strong>Лабораторная работа №6 "Автоматический поиск источников"</strong><br>
+        Ссылка на материалы:
+        <a href="https://disk.yandex.ru/d/pke5sG29_zzyNg">
+            Яндекс-диск 6 лаба
+        </a><br><br>
+      Дедлайн: 22.12.25 23:59 по МСК<br><br>
+    </li>
+    <li>
+        <strong>Лабораторная работа №7 "Генерация списка литературы (черный ящик)"</strong><br>
+        Ссылка на материалы:
+        <a href="https://disk.yandex.ru/d/o_2VCBeZmApXHQ">
+            Яндекс-диск 7 лаба
+        </a><br><br>
+      Дедлайн: 22.12.25 23:59 по МСК<br><br>
     </li>
     
 </ol>
+
+
+
+## Итоговый реферат/курсовая
+
+Дедлайн по загрузке - **28.12.2025**<br>
+
 
 
    
