@@ -1,0 +1,22 @@
+Generate 15 high-quality search queries for arXiv (https://arxiv.org/search) based on the scientific article about {тема статьи}. Each query should be optimized for finding relevant academic papers.
+
+Requirements:
+- All queries in English, web-safe format (no special operators except quotes for exact phrases)
+- Focus on core concepts: {основные концепции}
+- Include relevant anchor terms: method, algorithm, model, system, analysis, dataset
+- Provide 3 types of queries for each of 5 thematic clusters:
+
+Thematic clusters:
+1. {кластер 1}
+2. {кластер 2}
+3. {кластер 3}
+4. {кластер 4}
+5. {кластер 5}
+
+For each cluster, generate:
+- Precise query: 2-4 specific keywords with 1 anchor term
+- Balanced query: short phrase in quotes (2-3 words) + 1-2 related keywords
+- Exploratory query: broader terms to discover related work
+
+Format: List queries by cluster, clearly marking the type of each query.
+Ensure diversity and avoid duplicates across all queries.
